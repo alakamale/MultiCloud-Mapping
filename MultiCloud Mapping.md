@@ -1,6 +1,6 @@
-# MultiCLoud Terms
+# MultiCloud Terms [Azure vs AWS vs GCP vs OCI]
 
-## Compartments
+## Subscriptions - Compartments
 
 ### OCI Users to Compartment Relationship
 <img src="images/OCI_user_to_compartment" alt="Image 3" width="45%">
@@ -11,7 +11,7 @@
   <img src="images/Azure_resource_hierarchy" alt="Image 1" width="45%">
 </p>
 
-
+## Availibility Zones / Domains
 
 ## Image Links
 1. [OCI Users to Compartment Relationship](https://k21academy.com/oracle-identity-management-oidm/iam-in-oci-user-groups-compartment-policy-tags-federation-mfa/)
